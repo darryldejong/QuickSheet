@@ -1,4 +1,4 @@
-# ExcelTabelMaker
+# QuickSheet
 Een Python-script dat gebruikers eenvoudig gegevens laat invoeren, waarvan het automatisch een Excel-bestand maakt dat op de computer wordt opgeslagen.
 
 ![Screenshot2](Screenshot2.png)
