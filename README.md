@@ -1,7 +1,7 @@
 # QuickSheet
 Een Python-script dat gebruikers eenvoudig gegevens laat invoeren, waarvan het automatisch een Excel-bestand maakt dat op de computer wordt opgeslagen.
 
-![Screenshot2](Screenshot2.png)
+![Screenshot2](/images/image.png)
 
 Functies
 - Gegevensinvoer: Ondersteuning voor meerdere rijen en kolommen.
